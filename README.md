@@ -1,4 +1,3 @@
-# Dillon Bac
 # 🍔 QuickBite — Marketing Website
 
 A fast, single-page marketing site for **QuickBite**, the most reliable way to get great food from local restaurants, delivered fast, accurately and affordably.
